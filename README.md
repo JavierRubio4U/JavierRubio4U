@@ -10,10 +10,15 @@ I like shipping things that move real metrics: churn reduction, service degradat
 > I made this repo to keep my personal projects and notes. If you're short on time, jump to the pinned projects 👇
 
 ## Selected areas of work
-- **Spatial analytics / Vodafone-style insights** — tiling, aggregations, and choropleths for decision-making.  
-- **Customer analytics** — churners/detractors modeling, service-quality segmentation.  
-- **Network & planning** — “smart capex” and degradation detection.  
-- **IoT & visualization** — small middleware + dashboards to surface telemetry.
+
+**Currently:** Data Scientist in a Consumer Business Unit (CBU), focused on **churn propensity** and **early-warning triggers** for retention.
+
+- **Churn propensity & retention** — probability models, survival/tenure analysis, uplift modeling for next-best-action, campaign targeting and measurement.
+- **Early-warning triggers** — real-time signals from usage/quality/billing/tickets to flag likely churners; thresholds, drift monitoring, and alerting.
+- **Customer analytics** — detractors/loyalty segmentation, NPS drivers, cohort & lifecycle analysis.
+- **Network & service quality for CX** — degradation/incident signals mapped to customer impact to support retention.
+- **Spatial insights (supporting)** — tiling/aggregations/choropleths when geography matters (market leakage, coverage vs churn hotspots).
+
 
 ## Pinned projects
 
