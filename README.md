@@ -22,6 +22,8 @@ I like shipping things that move real metrics: churn reduction, service degradat
 
 ## Pinned projects
 
+- [**Youtube_shorts**](https://github.com/JavierRubio4U/youtube_shorts) — Automates the creation of cinematic shorts for movie releases, including asset download, video editing, and direct YouTube upload, powered by AI.
+- 
 - [**AI_agent_news_images_telegram**](https://github.com/JavierRubio4U/AI_agent_news_images_telegram) — Telegram AI agent for automated news generation and image creation with LLMs + Stable Diffusion; designed for scalable delivery (Vertex AI/GCP ready).
 
 - [**bai-wuchang-model**](https://github.com/JavierRubio4U/bai-wuchang-model) — Local RAG + persona chat for *Wuchang: Fallen Feathers*. Built to avoid hallucinations; includes scraping, indexing, and an in-game CLI.
