@@ -23,10 +23,12 @@ I like shipping things that move real metrics: churn reduction, service degradat
 ## Pinned projects
 
 - [**Youtube_shorts**](https://github.com/JavierRubio4U/youtube_shorts) — Automates the creation of cinematic shorts for movie releases, including asset download, video editing, and direct YouTube upload, powered by AI.
- 
-- [**AI_agent_news_images_telegram**](https://github.com/JavierRubio4U/AI_agent_news_images_telegram) — Telegram AI agent for automated news generation and image creation with LLMs + Stable Diffusion; designed for scalable delivery (Vertex AI/GCP ready).
+
+- [**Calistenia**](https://github.com/JavierRubio4U/calistenia) — State-of-the-art multi-agent system featuring cutting-edge agentic programming and an ARP framework for autonomous error correction and continuous self-improvement.
 
 - [**bai-wuchang-model**](https://github.com/JavierRubio4U/bai-wuchang-model) — RAG-powered AI guide for Wuchang: Fallen Feathers. Uses an open-source LLM and ripped game data to provide hyper-accurate, personality-driven assistance.
+  
+- [**AI_agent_news_images_telegram**](https://github.com/JavierRubio4U/AI_agent_news_images_telegram) — Telegram AI agent for automated news generation and image creation with LLMs + Stable Diffusion; designed for scalable delivery (Vertex AI/GCP ready).
 
 - [**ai_software_dev**](https://github.com/JavierRubio4U/ai_software_dev) — Main sandbox for AI/software experiments. Prototypes for ML, NLP, and automation projects (Py/PySpark/SQL).
 
@@ -34,7 +36,7 @@ I like shipping things that move real metrics: churn reduction, service degradat
 
 - [**Machine-Learning-with-Python**](https://github.com/JavierRubio4U/Machine-Learning-with-Python) — Fork with custom improvements and documentation for core ML algorithms in Python.
 
-- [**Machine_Learning**](https://github.com/JavierRubio4U/Machine_Learning) — Fork extended with additional data analysis techniques and reproducible ML workflows.
+
 
 
 > Each repo explains: the problem, public/synthetic data, how to run, and a final metric or outcome.
