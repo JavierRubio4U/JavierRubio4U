@@ -26,7 +26,7 @@ I like shipping things that move real metrics: churn reduction, service degradat
  
 - [**AI_agent_news_images_telegram**](https://github.com/JavierRubio4U/AI_agent_news_images_telegram) — Telegram AI agent for automated news generation and image creation with LLMs + Stable Diffusion; designed for scalable delivery (Vertex AI/GCP ready).
 
-- [**bai-wuchang-model**](https://github.com/JavierRubio4U/bai-wuchang-model) — Local RAG + persona chat for *Wuchang: Fallen Feathers*. Built to avoid hallucinations; includes scraping, indexing, and an in-game CLI.
+- [**bai-wuchang-model**](https://github.com/JavierRubio4U/bai-wuchang-model) — RAG-powered AI guide for Wuchang: Fallen Feathers. Uses an open-source LLM and ripped game data to provide hyper-accurate, personality-driven assistance.
 
 - [**ai_software_dev**](https://github.com/JavierRubio4U/ai_software_dev) — Main sandbox for AI/software experiments. Prototypes for ML, NLP, and automation projects (Py/PySpark/SQL).
 
